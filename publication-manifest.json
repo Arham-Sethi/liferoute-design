@@ -1,0 +1,52 @@
+[
+  {
+    "path": ".gitattributes",
+    "sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992",
+    "bytes": 9
+  },
+  {
+    "path": "README.md",
+    "sha256": "22dbd14d1a0f5b1a67e9e5494ca935b2f281098ff48766cb3b219bb8d195fb44",
+    "bytes": 542
+  },
+  {
+    "path": "backend/README.md",
+    "sha256": "632ae9d884501be0adbccab1ae1eb2e1f4d1fa40ec18b6a41d072018edf4508e",
+    "bytes": 58
+  },
+  {
+    "path": "docs/contract_v1.md",
+    "sha256": "8d9c83151e399fda4d0a370010fcd41d4cf68160f444c0b48ec6309f6cdb9523",
+    "bytes": 6950
+  },
+  {
+    "path": "docs/README.md",
+    "sha256": "dd81df82b4c9306948fa562de74a5322cf62c1622e72d6ae1052e1d2c8a9291c",
+    "bytes": 27
+  },
+  {
+    "path": "frontend/README.md",
+    "sha256": "78c6a891b76108651cf3852bd6e02a9f4dbfa49ec16e68ed1b4de9189c9c16d3",
+    "bytes": 67
+  },
+  {
+    "path": "shared/README.md",
+    "sha256": "45ad08702a3c3e73bad22947c846b5d47e6d0d3060786d0b81b71105a8788c48",
+    "bytes": 190
+  },
+  {
+    "path": "shared/constants/api.json",
+    "sha256": "735b5417903346d4b9bdbba1bfe1f78a13fadd71aec9168b5ab0357704e449dd",
+    "bytes": 34
+  },
+  {
+    "path": "shared/constants/consent_modes.json",
+    "sha256": "988920e0a0fc22957438c3d28e29ffcf8bdc5933b2748678cb0137cfc8ad10c7",
+    "bytes": 90
+  },
+  {
+    "path": "shared/constants/roles.json",
+    "sha256": "112cd5bd28d82ade785ec62dbbd3ec93100b4701a7add359f69a69cd3a075a70",
+    "bytes": 106
+  }
+]
